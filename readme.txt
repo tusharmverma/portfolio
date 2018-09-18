@@ -1,91 +1,137 @@
-/*========= About Theme =========*/
+==================================================================================================
 
-Theme Name: Shapely
-Theme URI: https://colorlib.com/wp/shapely/
-Version: 1.1.0
-Tested up to: WP 4.7
+DESCRIPTION:
 
-Author: Aigars Silkalns
-Author URI: https://colorlib.com/wp/
-License: GNU General Public License v3.0
-License URI: http://www.gnu.org/licenses/gpl.html
--------------------------------------------------------
-Shapely theme, Copyright 2017 colorlib.com
-Shapely WordPress theme is distributed under the terms of the GNU GPL
-Shapely is based on Underscores http://underscores.me/, (C) 2012-2017 Automattic, Inc.
--------------------------------------------------------
+HOLA is a modern and stylish vCard website template. Designed to be a resume, vCard, portfolio 
+template, it's the perfect template for creative designers, developers, freelancers, photographer 
+or any creative profession. It is fully responsive and retina/hi-dpi ready. It will look great 
+on any devices from desktop to mobile phones. It has blog page templates, working contact form, 
+stylish portfolio section and other features you will only find on premium templates. Built with 
+clean and organized code, this template is also very easy to customize.
 
-== Description ==
-
-Shapely is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
-
-Shapely supports most free and premium WordPress plugins such as WooCommerce, Jetpack, Gravity Forms, Contact Form 7, Yoast SEO, Google Analytics by Yoast and much more.
-
-This theme is the best suited for business, landing page, portfolio, ecommerce, store, local business,  personal websites but can be tweaked to be used as blog, magazine or any other awesome website while highlighting its unique one page setup. This is going to be the last WordPress theme you will ever want to use because it is so much better than anything you have seen. We promise.
-
-== Installation ==
-
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-
-For more detailed Shapely theme setup please read documentation: https://colorlib.com/wp/support/shapely/
-
-== Frequently Asked Questions ==
-
-= Does this theme support any plugins? =
-
-Shapely includes support for Infinite Scroll, Portfolio, Testimonials, Tiled Galleries for Jetpack.
-
-= Long menus =
-
-Shapely theme does not support long menus.
-
-= Front page template not displaying content =
-
-This page template is used to create the Parallax homepage from our demo : https://colorlib.com/shapely/ . it does not output any content added in the backend editor and we recommend using only the [Shapely] tagged widgets. 
-
-== Credits ==
-
-* Based on Underscores http://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2017 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
-* TGM Plugin Activation - http://tgmpluginactivation.com/, 2011, Thomas Griffin [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* Bootstrap v3.3.6 (http://getbootstrap.com), Copyright 2011-2014 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-* Font Awesome 4.5.0 by @davegandy - http://fontawesome.io - @fontawesome
-	License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
-* WP-Bootstrap-NavWalker licensed under the GPLv2 license (http://www.gnu.org/licenses/gpl-2.0.html)
-* FlexSlider by WooThemes licensed under the GPLv2 license (http://www.gnu.org/licenses/gpl-2.0.html)
-* jQuery Smooth Scroll, https://github.com/kswedberg/jquery-smooth-scroll. Copyright (c) 2015 Karl Swedberg. Licensed MIT(https://github.com/kswedberg/jquery-smooth-scroll/blob/master/LICENSE-MIT)
-* jQuery Cloneya, Lisensed under [MIT](http://opensource.org/licenses/MIT)
+==================================================================================================
 
 
-== Changelog ==
+LICENSE:
 
-= 1.1.0 - Jan 3 2017 =
+This free resource is provided by Styleshout.com and is free to use in 
+both personal and commercial projects.
 
-* Major upgrade to comply with WordPress.org guidelines and best practices.
 
-= 1.0.5 - Sept 3 2016 =
+Rights:
+-------
 
-* Improved theme translation
+You are permitted to use this free resource in any number of personal and commercial projects for 
+yourself or a client. You may modify the resource according to your requirements and include them 
+in your projects under the following condition - you MUST give appropriate credit, provide an 
+attribution link to styleshout.com.
 
-= 1.0.4 - Sept 3 2016 =
 
-* Removed deprecated tags
+Prohibitions:
+-------------
 
-= 1.0.3 - Sept 3 2016 =
+You are not permitted to resell or redistribute(even for free) the resource "as is" without 
+prior consent. If you would like to republish or promote this resource on your site, please 
+link back to the appropriate resource page on styleshout.com where users can find the download 
+and not directly to the download zip file.
 
-* Small bug fixes and improvements
 
-= 1.0.2 - April 15 2016 =
+Attribution: 
+------------
 
-* Fixed parse error for older version of PHP.
-* Fixed error when mobile menu was appearing along regular menu between 990px - 991px.
+You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
+We prefer the footer credit that comes with the template but you are still free to move it 
+somewhere else.
 
-= 1.0.1 - March 30 2016 =
 
-* Renamed JavaScript file to get rid of not found error.
-* Updated Smooth Scroll to 1.7.2
 
-= 1.0.0 - March 26 2016 =
-* Initial release
+If you have any questions about the License, feel free to contact us.
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+REMOVING THE ATTRIBUTION LINK:
+
+We understand that there are situations where you want to use our templates without 
+the crediting obligation. If that's your case, you can always send us a 
+credit removal fee of 10 USD through Paypal. This will allow you to use a single 
+template attribution/credit link free on ONE DOMAIN name.
+
+You can send your payments through Paypal to this address: ealigam@gmail.com
+
+If possible, kindly send us the site's url where the template is being used. 
+Also, keep your Paypal receipt as proof of payment and your good to go.
+
+
+------------------------------------------------------------------------------------------------------ 
+
+
+SUPPORT:
+    
+Since HOLA is distributed for free, support is not offered. HOLA is coded according 
+to current web standards and we did our best to make the template easy to use and modify.
+If you have minimum web development experience, you can easily modify the template. 
+However, If you're still new to HTML and CSS, I suggest that you visit the 
+following tutorials:
+
+ - https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
+ - http://learn.shayhowe.com/html-css/
+
+These will teach you the essentials of HTML and CSS. In addition, if you want to include
+jQuery in your skill-set, you can also check out these tutorials: 
+
+ - https://code.tutsplus.com/courses/30-days-to-learn-jquery
+ - http://try.jquery.com/
+
+
+
+------------------------------------------------------------------------------------------------------ 
+
+
+GET THE LATEST VERSION:
+
+We update our templates on a regular basis so to make sure that you have the latest version, 
+always download the template files directly on our website(https://www.styleshout.com/)
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+SOURCES AND CREDITS:
+
+I've used the following resources as listed.
+
+Fonts:
+ - Montserrat Font (https://www.google.com/fonts/specimen/Montserrat)
+ - Libre Baskerville Font (https://fonts.google.com/specimen/Libre+Baskerville) 
+
+Icons:
+ - Iconic font (https://iconmonstr.com/iconicfont/)
+
+Stock Photos and Graphics:
+ - Unsplash.com (https://unsplash.com/)
+ - gratisography (https://gratisography.com/)
+ 
+Javascript Files:
+
+ - JQuery (http://jquery.com/)
+ - Modernizr (http://modernizr.com/)
+ - Waypoints (http://imakewebthings.com/jquery-waypoints/)
+ - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
+ - jQuery Validation Plugin (https://jqueryvalidation.org/)
+ - pace js (http://github.hubspot.com/pace/)
+ - Masonry (http://masonry.desandro.com/)
+ - Imagesloaded (https://imagesloaded.desandro.com/)
+ - Parallax.js (http://pixelcog.github.io/parallax.js/)
+ - Slick Slider (http://kenwheeler.github.io/slick/)
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+Thanks for downloading from Styleshout :)
+
+
